@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+
+form{
+  display:inline-block;
+  background-color: burlywood;
+  padding:20px;
+  
+
+}
+
+form label{
+  display: inline-block;
+  width: 150px;
+}
+
+form div{
+  margin: 20px;
+}
+
+caption{
+  font-size: 2rem;
+}
+
+.resultPara{
+  max-width: 250px;
+}
+
+span{
+  display: inline-block;
+  width: 80px;
+  font-size: 1.5rem;
+}
+
+nav{
+  background-color: greenyellow;
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.mcfam{
+  width: 850px;
+  margin: 20px black;
+
+}
